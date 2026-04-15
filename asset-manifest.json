@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/music-app-gift/static/css/main.6c5e996c.css",
+    "main.js": "/music-app-gift/static/js/main.97985624.js",
+    "index.html": "/music-app-gift/index.html",
+    "main.6c5e996c.css.map": "/music-app-gift/static/css/main.6c5e996c.css.map",
+    "main.97985624.js.map": "/music-app-gift/static/js/main.97985624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5e996c.css",
+    "static/js/main.97985624.js"
+  ]
+}
