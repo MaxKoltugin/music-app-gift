@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/music-app-gift/static/css/main.0cafaf35.css",
+    "main.css": "/music-app-gift/static/css/main.d2dc4bcf.css",
     "main.js": "/music-app-gift/static/js/main.97985624.js",
     "index.html": "/music-app-gift/index.html",
-    "main.0cafaf35.css.map": "/music-app-gift/static/css/main.0cafaf35.css.map",
+    "main.d2dc4bcf.css.map": "/music-app-gift/static/css/main.d2dc4bcf.css.map",
     "main.97985624.js.map": "/music-app-gift/static/js/main.97985624.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cafaf35.css",
+    "static/css/main.d2dc4bcf.css",
     "static/js/main.97985624.js"
   ]
 }
